@@ -1,3 +1,8 @@
+// Define an array of quote objects, each containing:
+// - text: the content of the quote
+// - author: the person who said or wrote the quote
+// - category: the thematic category of the quote
+
 const quotes = [
     { text: "Success is not final...", author: "Winston Churchill", category: "success" },
     { text: "Life is what happens...", author: "John Lennon", category: "life" },
@@ -8,5 +13,6 @@ const quotes = [
     { text: "It is not over,until i Win", author: "Nracoker", category: "success" },
   ];
   
+  // Export the quotes array so it can be imported and used in other parts of the application
   export default quotes;
   
