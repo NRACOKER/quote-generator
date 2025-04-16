@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  background: #f9f9f9;
+  min-height: 100vh;
+  font-size: large;
+}
+
+.quote-box {
+  background-color: #faf8f8;
+  border-radius: 10px;
+  padding: 2rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: auto;
+}
+
+.quote-text {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.quote-author {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 1.5rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  background-color: rgb(195, 45, 3);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+select {
+  margin-bottom: 1.5rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+
